@@ -27,5 +27,5 @@ Note: "Most engaging" is a very subjective definition. This is the method that I
 	- /r/Web3
 2. Give each post an *engagement score,* defined as numComments / numSubredditSubscribers
 3. Sort the list by engagement score
-4. Get text and URL of the top 10 posts across all off the subreddits
+4. Get text and URL of the top 20 posts across all off the subreddits
 5. Pipe to a text file called *top-10-weekly-[year]-[month]-[day].txt*
