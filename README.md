@@ -1,4 +1,4 @@
-# No Mo' Crypto FOMO
+# Learn Crypto Together
 
 Stay up to date with crypto conversations happening around the Internet!
 
