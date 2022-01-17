@@ -8,7 +8,7 @@ Stay up to date with crypto conversations happening around the Internet!
 **I want to** keep up with trending discussions online
 **So that** I can stay in the loop and keep learning
 
-## v1.0 Functionality
+## v1.0 Functionality ✅
 
 GIVEN I am a Crypto enthusiast
 WHEN I run this Python script
@@ -27,5 +27,5 @@ Note: "Most engaging" is a very subjective definition. This is the method that I
 	- /r/Web3
 2. Give each post an *engagement score,* defined as numComments / numSubredditSubscribers
 3. Sort the list by engagement score
-4. Get text and URL of the top 20 posts across all off the subreddits
-5. Pipe to a text file called *top-10-weekly-[year]-[month]-[day].txt*
+4. Take the top 20 posts across all of the subreddits
+5. Pipe to a CSV file called *top-10-weekly-[year]-[month]-[day].txt*
