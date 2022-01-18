@@ -1,17 +1,21 @@
 # Learn Crypto Together
 
-Stay up to date with crypto conversations happening around the Internet!
+Stay up to date with crypto conversations happening around the Internet! This project will inform a newsletter that I am writing on Substack — check it out here: https://cryptotogether.substack.com
 
 ## User Story
 
 **As a** Crypto enthusiast
+
 **I want to** keep up with trending discussions online
+
 **So that** I can stay in the loop and keep learning
 
 ## v1.0 Functionality ✅
 
 GIVEN I am a Crypto enthusiast
+
 WHEN I run this Python script
+
 THEN I will create a text file that contains an ordered list of the week's most engaging crypto/web3 discussions on Reddit*
 
 
